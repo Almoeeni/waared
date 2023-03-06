@@ -1,8 +1,12 @@
 # waared
 #installation
+
 clone the repo
+
 #activate the virtual env
+
 pipenv install
+
 pipenv shell
 
 #How to explore
