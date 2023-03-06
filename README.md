@@ -6,6 +6,7 @@ pipenv install
 pipenv shell
 
 #How to explore
+
 Create new user = http://127.0.0.1:8000/auth/users/
 
 Create jwt access = http://127.0.0.1:8000/auth/jwt/create
